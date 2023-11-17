@@ -1,5 +1,15 @@
 {
     "pontosDeColeta": [
+        {
+        "nome": "Teste API",
+        "coordenadas": {
+          "latitude": -23.477890,
+          "longitude": -46.616206
+        },
+        "descricao": "ai ai ai que mina perversa",
+        "endereco": "casa do seu zé",
+        "horarioFuncionamento": "Todos os dias: 24hr"
+      },
       {
         "nome": "Recicla SP",
         "coordenadas": {
