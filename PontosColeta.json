@@ -8,7 +8,8 @@
         },
         "descricao": "ai ai ai que mina perversa",
         "endereco": "casa do seu zé",
-        "horarioFuncionamento": "Todos os dias: 24hr"
+        "horarioFuncionamento": "Todos os dias: 24hr",
+        "link": "http://#",
       },
       {
         "nome": "Recicla SP",
@@ -18,7 +19,8 @@
         },
         "descricao": "Centro de reciclagem com opções para reciclar papel, plástico e metal.",
         "endereco": "Rua Recicla, 123, Bairro Verde",
-        "horarioFuncionamento": "Seg-Sex: 8h-18h, Sáb: 9h-13h"
+        "horarioFuncionamento": "Seg-Sex: 8h-18h, Sáb: 9h-13h",
+        "link": "http://#",
       },
       {
         "nome": "Eco Sustentável",
@@ -28,7 +30,8 @@
         },
         "descricao": "Ponto de coleta para eletrônicos e resíduos eletrônicos.",
         "endereco": "Avenida Sustentabilidade, 456, Bairro Eco",
-        "horarioFuncionamento": "Seg-Sex: 9h-17h"
+        "horarioFuncionamento": "Seg-Sex: 9h-17h",
+        "link": "http://#",
       },
       {
         "nome": "Verde Vida",
@@ -38,7 +41,8 @@
         },
         "descricao": "Coleta de materiais orgânicos para compostagem.",
         "endereco": "Rua da Compostagem, 789, Bairro Sustentável",
-        "horarioFuncionamento": "Todos os dias: 7h-19h"
+        "horarioFuncionamento": "Todos os dias: 7h-19h",
+        "link": "http://#",
       }
     ]
   }
