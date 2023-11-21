@@ -1,48 +1,52 @@
 {
     "pontosDeColeta": [
         {
-        "nome": "Teste API",
+        "name": "Teste API",
         "coordenadas": {
           "latitude": -23.477890,
           "longitude": -46.616206
         },
-        "descricao": "ai ai ai que mina perversa",
-        "endereco": "casa do seu zé",
-        "horarioFuncionamento": "Todos os dias: 24hr",
+        "description": "ai ai ai que mina perversa",
+        "address": "casa do seu zé",
+        "openingHours": "Todos os dias: 24hr",
         "link": "http://#",
+        "maps": "http://"
       },
       {
-        "nome": "Recicla SP",
+        "name": "Recicla SP",
         "coordenadas": {
           "latitude": -23.550520,
           "longitude": -46.633308
         },
-        "descricao": "Centro de reciclagem com opções para reciclar papel, plástico e metal.",
-        "endereco": "Rua Recicla, 123, Bairro Verde",
-        "horarioFuncionamento": "Seg-Sex: 8h-18h, Sáb: 9h-13h",
+        "description": "Centro de reciclagem com opções para reciclar papel, plástico e metal.",
+        "address": "Rua Recicla, 123, Bairro Verde",
+        "openingHours": "Seg-Sex: 8h-18h, Sáb: 9h-13h",
         "link": "http://#",
+        "maps": "http://"
       },
       {
-        "nome": "Eco Sustentável",
+        "name": "Eco Sustentável",
         "coordenadas": {
           "latitude": -23.590002,
           "longitude": -46.702548
         },
-        "descricao": "Ponto de coleta para eletrônicos e resíduos eletrônicos.",
-        "endereco": "Avenida Sustentabilidade, 456, Bairro Eco",
-        "horarioFuncionamento": "Seg-Sex: 9h-17h",
+        "description": "Ponto de coleta para eletrônicos e resíduos eletrônicos.",
+        "address": "Avenida Sustentabilidade, 456, Bairro Eco",
+        "openingHours": "Seg-Sex: 9h-17h",
         "link": "http://#",
+        "maps": "http://"
       },
       {
-        "nome": "Verde Vida",
+        "name": "Verde Vida",
         "coordenadas": {
           "latitude": -23.477890,
           "longitude": -46.616206
         },
-        "descricao": "Coleta de materiais orgânicos para compostagem.",
-        "endereco": "Rua da Compostagem, 789, Bairro Sustentável",
-        "horarioFuncionamento": "Todos os dias: 7h-19h",
+        "description": "Coleta de materiais orgânicos para compostagem.",
+        "address": "Rua da Compostagem, 789, Bairro Sustentável",
+        "openingHours": "Todos os dias: 7h-19h",
         "link": "http://#",
+        "maps": "http://"
       }
     ]
   }
