@@ -10,7 +10,8 @@
         "address": "casa do seu zé",
         "openingHours": "Todos os dias: 24hr",
         "link": "http://#",
-        "maps": "http://"
+        "maps": "http://",
+        "materials": ["eletronicos"]
       },
       {
         "name": "Recicla SP",
@@ -22,7 +23,8 @@
         "address": "Rua Recicla, 123, Bairro Verde",
         "openingHours": "Seg-Sex: 8h-18h, Sáb: 9h-13h",
         "link": "http://#",
-        "maps": "http://"
+        "maps": "http://",
+        "materials": ["eletronicos"]
       },
       {
         "name": "Eco Sustentável",
@@ -34,7 +36,8 @@
         "address": "Avenida Sustentabilidade, 456, Bairro Eco",
         "openingHours": "Seg-Sex: 9h-17h",
         "link": "http://#",
-        "maps": "http://"
+        "maps": "http://",
+        "materials": ["eletronicos"]
       },
       {
         "name": "Verde Vida",
@@ -46,7 +49,8 @@
         "address": "Rua da Compostagem, 789, Bairro Sustentável",
         "openingHours": "Todos os dias: 7h-19h",
         "link": "http://#",
-        "maps": "http://"
+        "maps": "http://",
+        "materials": ["eletronicos"]
       }
     ]
   }
