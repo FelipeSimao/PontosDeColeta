@@ -2,6 +2,7 @@
     "pontosDeColeta": [
         {
         "name": "Teste API",
+        "id": 1,
         "coordenadas": {
           "latitude": -23.477890,
           "longitude": -46.616206
@@ -15,6 +16,7 @@
       },
       {
         "name": "Recicla SP",
+        "id": 2,
         "coordenadas": {
           "latitude": -23.550520,
           "longitude": -46.633308
@@ -28,6 +30,7 @@
       },
       {
         "name": "Eco Sustentável",
+        "id": 3,
         "coordenadas": {
           "latitude": -23.590002,
           "longitude": -46.702548
@@ -41,6 +44,7 @@
       },
       {
         "name": "Verde Vida",
+        "id": 4,
         "coordenadas": {
           "latitude": -23.477890,
           "longitude": -46.616206
