@@ -1,57 +1,15 @@
 {
     "pontosDeColeta": [
         {
-        "name": "Teste API",
+        "name": "Titulo nome do ponto",
         "id": 1,
         "coordenadas": {
           "latitude": -23.477890,
           "longitude": -46.616206
         },
-        "description": "ai ai ai que mina perversa",
-        "address": "casa do seu zé",
+        "description": "Descrição do ponto de Coleta",
+        "address": "endereço",
         "openingHours": "Todos os dias: 24hr",
-        "link": "http://#",
-        "maps": "http://",
-        "materials": ["eletronicos"]
-      },
-      {
-        "name": "Recicla SP",
-        "id": 2,
-        "coordenadas": {
-          "latitude": -23.550520,
-          "longitude": -46.633308
-        },
-        "description": "Centro de reciclagem com opções para reciclar papel, plástico e metal.",
-        "address": "Rua Recicla, 123, Bairro Verde",
-        "openingHours": "Seg-Sex: 8h-18h, Sáb: 9h-13h",
-        "link": "http://#",
-        "maps": "http://",
-        "materials": ["eletronicos"]
-      },
-      {
-        "name": "Eco Sustentável",
-        "id": 3,
-        "coordenadas": {
-          "latitude": -23.590002,
-          "longitude": -46.702548
-        },
-        "description": "Ponto de coleta para eletrônicos e resíduos eletrônicos.",
-        "address": "Avenida Sustentabilidade, 456, Bairro Eco",
-        "openingHours": "Seg-Sex: 9h-17h",
-        "link": "http://#",
-        "maps": "http://",
-        "materials": ["eletronicos"]
-      },
-      {
-        "name": "Verde Vida",
-        "id": 4,
-        "coordenadas": {
-          "latitude": -23.477890,
-          "longitude": -46.616206
-        },
-        "description": "Coleta de materiais orgânicos para compostagem.",
-        "address": "Rua da Compostagem, 789, Bairro Sustentável",
-        "openingHours": "Todos os dias: 7h-19h",
         "link": "http://#",
         "maps": "http://",
         "materials": ["eletronicos"]
