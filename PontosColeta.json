@@ -13,6 +13,20 @@
         "link": "http://#",
         "maps": "http://",
         "materials": ["eletronicos"]
-      }
+    },
+    {
+        "name": "Titulo nome do ponto 2",
+        "id": 2,
+        "coordenadas": {
+          "latitude": -23.477890,
+          "longitude": -46.616206
+        },
+        "description": "Descrição do ponto de Coleta 2",
+        "address": "endereço 2",
+        "openingHours": "Todos os dias: 24hr",
+        "link": "http://#",
+        "maps": "http://",
+        "materials": ["eletronicos"]
+    }
     ]
-  }
+}
