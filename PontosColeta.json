@@ -41,6 +41,20 @@
         "link": "https://www.prefeitura.sp.gov.br/",
         "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d913.7898511370286!2d-46.75885499955968!3d-23.63446171627005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce53f0ade0f243%3A0xa2a00019b4598e83!2sEcoponto%20Olinda!5e0!3m2!1spt-BR!2sbr!4v1701655273185!5m2!1spt-BR!2sbr",
         "materials": ["Eletronicos", "Baterias", "Garrafas plásticas", "Cartuchos de tinta"]
+    },
+    {
+        "name": "Metro Capão",
+        "id": 4,
+        "coordenadas": {
+          "latitude": -23.659472524551738,
+          "longitude": -46.767836107939665
+        },
+        "description": "Centro de Reciclagem",
+        "address": "",
+        "openingHours": "Todos os dias, 04:40 - 00:00",
+        "link": "https://www.viamobilidade.com.br/voce/pratique-a-cidadania",
+        "maps": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14617.856513088653!2d-46.7680936!3d-23.6593546!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce53b8412d5577%3A0x674118f6e41e68d1!2sCap%C3%A3o%20Redondo!5e0!3m2!1spt-BR!2sbr!4v1701797609629!5m2!1spt-BR!2sbr",
+        "materials": ["Óleo", "Embalagens de Cosméticos"]
     }
     ]
 }
