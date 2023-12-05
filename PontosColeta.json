@@ -1,32 +1,46 @@
 {
     "pontosDeColeta": [
         {
-        "name": "Titulo nome do ponto",
+        "name": "Ecoponto Parque Fernanda",
         "id": 1,
         "coordenadas": {
-          "latitude": -23.477890,
-          "longitude": -46.616206
+          "latitude": -23.671686425538653,
+          "longitude": -46.79228961503763
         },
-        "description": "Descrição do ponto de Coleta",
-        "address": "endereço",
-        "openingHours": "Todos os dias: 24hr",
-        "link": "http://#",
-        "maps": "http://",
-        "materials": ["eletronicos"]
+        "description": "Centro de Reciclagem",
+        "address": "Av. Dr. Salvador Rocco, 400 - Parque Fernanda, São Paulo - SP, 05889-230",
+        "openingHours": "domingo, 06:00–18:00 - segunda-feira a sexta-feira 06:00–22:00",
+        "link": "https://www.prefeitura.sp.gov.br/saffor_bueiros/formspublic/serv1ecopontos.aspx",
+        "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3654.114972882685!2d-46.797041148210766!3d-23.67184605739467!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5305cb68f129%3A0x2d27be5bee335d4a!2sEcoponto%20Parque%20Fernanda!5e0!3m2!1spt-BR!2sbr!4v1701654668957!5m2!1spt-BR!2sbr",
+        "materials": ["Garrafas plásticas", "Lâmpadas"]
     },
     {
-        "name": "Titulo nome do ponto 2",
+        "name": "Ecoponto Santo Dias",
         "id": 2,
         "coordenadas": {
-          "latitude": -23.477890,
-          "longitude": -46.616206
+          "latitude": -23.664125546902284,
+          "longitude": -46.77536990844201
         },
-        "description": "Descrição do ponto de Coleta 2",
-        "address": "endereço 2",
-        "openingHours": "Todos os dias: 24hr",
-        "link": "http://#",
-        "maps": "http://",
-        "materials": ["eletronicos"]
+        "description": "Centro de Reciclagem",
+        "address": "R. Rosifloras, 301 - Conj. Hab. Instituto Adventista, São Paulo - SP, 05868-600",
+        "openingHours": "domingo, 06:00–18:00 - segunda-feira a sexta-feira 06:00–20:00",
+        "link": "https://www.prefeitura.sp.gov.br/",
+        "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d456.79131755364307!2d-46.77596451714639!3d-23.664134601040093!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce53baab17405b%3A0x9a51394b536e5ddb!2sEcoponto%20Santo%20Dias!5e0!3m2!1spt-BR!2sbr!4v1701654920802!5m2!1spt-BR!2sbr",
+        "materials": ["Eletronicos", "Baterias", "Garrafas plásticas", "Lâmpadas", "Latas de metal"]
+    },
+    {
+        "name": "Ecoponto Olinda",
+        "id": 3,
+        "coordenadas": {
+          "latitude": -23.63421476442104,
+          "longitude": -46.75805704239349
+        },
+        "description": "Centro de Reciclagem",
+        "address": "R. Nelson Brissac, 1235 - Parque Regina, São Paulo - SP, 05778-180",
+        "openingHours": "domingo, 06:00–18:00 - segunda-feira a sexta-feira 06:00–22:00",
+        "link": "https://www.prefeitura.sp.gov.br/",
+        "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d913.7898511370286!2d-46.75885499955968!3d-23.63446171627005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce53f0ade0f243%3A0xa2a00019b4598e83!2sEcoponto%20Olinda!5e0!3m2!1spt-BR!2sbr!4v1701655273185!5m2!1spt-BR!2sbr",
+        "materials": ["Eletronicos", "Baterias", "Garrafas plásticas", "Cartuchos de tinta"]
     }
     ]
 }
